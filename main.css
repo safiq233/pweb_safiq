@@ -31,6 +31,8 @@ ol, ul, img, p{
     padding: 0;
     overflow: hidden;
     background-color: #A6CF98;
+    position: sticky;
+    top: 0;
 }
 
 #navbar li{
